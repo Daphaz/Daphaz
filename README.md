@@ -1,15 +1,15 @@
-### Bonjour <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## Développeur web Junior
+## Junior Web Developer
 
-- 🕹️  Je travaille avec VS Code
-- 🌱  Actuellement entrain de tout d'apprendre 😅
-- 📖  Pas encore choisi de spécialisation
-- ✨  Objectifs 2021: Réaliser un max de projets et un portfolio
+- 🕹️  I work with VS Code
+- 🌱  Currently learning React, express and everything I can 😅
+- 📖  Not yet chosen specialization
+- ✨  Goals 2021: Achieve a maximum number of projects and a portfolio
 
 <br />
 
-### Languages & Outils :
+### Languages & Tools :
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
