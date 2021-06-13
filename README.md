@@ -4,7 +4,6 @@
 
 - 🕹️  I work with VS Code
 - 🌱  Currently learning React, express and everything I can 😅
-- 📖  Not yet chosen specialization
 - ✨  Goals 2021: Achieve a maximum number of projects and a portfolio
 
 <br />
