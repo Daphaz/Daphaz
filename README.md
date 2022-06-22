@@ -1,6 +1,4 @@
-### Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-## Junior Web Developer
+## Hello! I'm Junior JS Developer
 
 - 🕹️  I work with VS Code
 - 🌱  Currently learning React, express and everything I can 😅
