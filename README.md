@@ -1,4 +1,4 @@
-## Hello! I'm Junior JS Developer
+## Hello! I'm FullStack JS Developer
 
 - 🕹️  I work with VS Code
 - 🌱  Currently learning Graphql, nestjs and everything I can 😅
